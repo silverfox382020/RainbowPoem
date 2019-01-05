@@ -2,3 +2,11 @@ The Rainbow Poem.
 
 Richard Of York Gain Battle In Vain.
 by Roy G. Biv
+
+R = Red
+O = Orange
+Y = Yellow
+G = Green
+B = Blue
+I = Indigo
+V = Violet
