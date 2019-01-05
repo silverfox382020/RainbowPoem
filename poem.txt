@@ -2,3 +2,11 @@ The Rainbow Poem.
 
 Really Offensive YouTube Games Built Into Videos.
 by Roy G. Biv
+
+R = Red
+O = Orange
+Y = Yellow
+G = Green
+B = Blue
+I = Indigo
+V = Violet
