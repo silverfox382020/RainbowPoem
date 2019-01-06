@@ -3,6 +3,8 @@ The Rainbow Poem.
 Richard Of York Gain Battle In Vain.
 by Roy G. Biv
 
+Colors of rainbow follow 
+this order.
 R = Red
 O = Orange
 Y = Yellow
