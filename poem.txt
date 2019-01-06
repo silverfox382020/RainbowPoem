@@ -3,12 +3,10 @@ The Rainbow Poem.
 Richard Of York Gain Battle In Vain.
 by Roy G. Biv
 
-Use poem above to remember colors of the rainbow
-and their order.
-R = Red
-O = Orange
-Y = Yellow
-G = Green
-B = Blue
-I = Indigo
-V = Violet
+R - Red
+O - Orange
+Y - Yellow
+G - Green
+B - Blue
+I - Indigo
+V - Violet
