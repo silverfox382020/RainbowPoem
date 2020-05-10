@@ -10,3 +10,5 @@ G - Green
 B - Blue
 I - Indigo
 V - Violet
+
+Learning Github with Rainbow Poet
